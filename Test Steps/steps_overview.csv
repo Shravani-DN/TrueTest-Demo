@@ -1,0 +1,7 @@
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Login Page Navigation,"step 1: Navigate to Page login
+step 2: Add visual checkpoint at Page login",High
+3,Verify Clients Add Client Page Navigation,"step 1: Navigate to Page dashboard clients addClient
+step 2: Add visual checkpoint at Page dashboard clients addClient",Low
+2,Verify Dashboard Page Navigation Jjhgcvbn,"step 1: Navigate to Page dashboard jjhgcvbn
+step 2: Add visual checkpoint at Page dashboard jjhgcvbn",Trivial

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://timesheet.dev.codecrafttech.com/dashboard/tracker'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>Dev instance of time manage for true test demo</name>
+    <tag></tag>
+</GlobalVariableEntities>
