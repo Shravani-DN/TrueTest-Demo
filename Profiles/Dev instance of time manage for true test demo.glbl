@@ -2,7 +2,7 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>'https://timesheet.dev.codecrafttech.com/dashboard/tracker'</initValue>
+        <initValue>'https://timesheet.dev.codecrafttech.com'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
     <defaultProfile>True</defaultProfile>
