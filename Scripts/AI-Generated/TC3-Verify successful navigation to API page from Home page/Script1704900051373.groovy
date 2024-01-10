@@ -1,5 +1,5 @@
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page home --> navigate to Page dashboard &'
+'step 1: Navigate to Page home --> navigate to Page api'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/dashboard/&')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/api')
 
-'step 2: Add visual checkpoint at Page dashboard &'
+'step 2: Add visual checkpoint at Page api'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC4-Verify Invalid Page Name page Dashboard_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify successful navigation to API page from Home page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

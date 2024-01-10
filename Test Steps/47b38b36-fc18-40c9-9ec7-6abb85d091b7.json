@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page dashboard clients addClient",
+        "step 2: At Page dashboard clients addClient click on span object --> navigate to Page login",
+        "step 3: Navigate to Page login --> navigate to Page dashboard clients editClientb-be64-4b13-8e33-",
+        "step 4: At Page dashboard clients editClientb-be64-4b13-8e33- click on button object --> navigate to Page login",
+        "step 5: Navigate to Page login",
+        "step 6: Add visual checkpoint at Page login"
+    ]
+}

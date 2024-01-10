@@ -1,17 +1,17 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify Login Page after navigating from Home Page,"step 1: Navigate to Page home --> navigate to Page login
+2,Verify successful navigation to Login page from Home page,"step 1: Navigate to Page home --> navigate to Page login
 step 2: Add visual checkpoint at Page login",High
-7,Verify Invalid Page Name page Dashboard Clients Addclient,"step 1: Navigate to Page home --> navigate to Page dashboard clients addClient
-step 2: Add visual checkpoint at Page dashboard clients addClient",Low
-4,Verify Invalid Page Name page Dashboard,"step 1: Navigate to Page home --> navigate to Page dashboard &
-step 2: Add visual checkpoint at Page dashboard &",Trivial
-3,Verify Invalid Page Name page,"step 1: Navigate to Page home --> navigate to Page &
-step 2: Add visual checkpoint at Page &",Trivial
-5,Verify Invalid Page Name page Dashboard Jjhgcvbn,"step 1: Navigate to Page home --> navigate to Page dashboard jjhgcvbn
-step 2: Add visual checkpoint at Page dashboard jjhgcvbn",Trivial
-8,Verify API V1 Project Page after navigating from Home Page,"step 1: Navigate to Page home --> navigate to Page api v1 project
-step 2: Add visual checkpoint at Page api v1 project",Trivial
-6,Verify Invalid Page Name page Dashboard Leave,"step 1: Navigate to Page home --> navigate to Page dashboard leave
-step 2: Add visual checkpoint at Page dashboard leave",Trivial
-2,Verify API Page after navigating from Home Page,"step 1: Navigate to Page home --> navigate to Page api
+1,Verify successful navigation to Add Client page from Dashboard Clients page,"step 1: Navigate to Page home --> navigate to Page dashboard clients addClient
+step 2: At Page dashboard clients addClient click on span object --> navigate to Page login
+step 3: Navigate to Page login --> navigate to Page dashboard clients editClientb-be64-4b13-8e33-
+step 4: At Page dashboard clients editClientb-be64-4b13-8e33- click on button object --> navigate to Page login
+step 5: Navigate to Page login
+step 6: Add visual checkpoint at Page login",High
+3,Verify successful navigation to API page from Home page,"step 1: Navigate to Page home --> navigate to Page api
 step 2: Add visual checkpoint at Page api",Trivial
+6,Verify successful navigation to Client Details page from Dashboard Clients page,"step 1: Navigate to Page home --> navigate to Page dashboard clients clientDetailsb-be64-4b13-8e
+step 2: Add visual checkpoint at Page dashboard clients clientDetailsb-be64-4b13-8e",Trivial
+5,Verify successful navigation to API V1 page from Home page,"step 1: Navigate to Page home --> navigate to Page api v1
+step 2: Add visual checkpoint at Page api v1",Trivial
+4,Verify successful navigation to Project Overview page from Home page,"step 1: Navigate to Page home --> navigate to Page Project-Overview
+step 2: Add visual checkpoint at Page Project-Overview",Trivial
